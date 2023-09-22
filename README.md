@@ -1,4 +1,4 @@
-## Rnall: A New Coreutil
+## Rnall: A New Linux Coreutil
 
 ### A module built to optimize your workflow
 
@@ -66,4 +66,3 @@ Project was created with:
 - Ubuntu v22.10
 - GNU Coreutils
 - UTM v4.0.9
-# rnall-Linux-Coreutil
